@@ -19,17 +19,15 @@ The LED glows bright the door status is open and the LED glows close the door st
 
 # 4'W and 1'H:-
 # What :-
-  * Door sensors are an essential component of your home security system: they let you know about the Door which is open or closed.
+  * Home door sensor play a key role for secure the home know the details about door is open or close.
 # Why :-
-  * In order to get door status that if door is open then we can assume that someone is entering or going out.
+  * Home door sensor importaant why because know the details of door and save energy savings.
 # When :-
-  * Anytime we can use this sensors as this are automatic door sensors which are connected to door to get the status of door.
+  * Home door sensors used 24hours becomes knowing the status of doors.
 # Who :-
-  * All the peoples those who want to keep their Home secure With this Door Sensors which are easy to Install.
+  * Everyone use home door sensors because they keep the house securely.
 # How :-
-  * One piece attaches on the door frame, and the other attaches parallel to the first piece on the door itself.
-   these two parts creats close circuit when door is close and when door is open it will switch circuit.
-
+  * The frame attaches to the door when it opens one frame move distance from parallel frame attaches to the door result know the status of door open or close.
 # Strength:-
  * 1.Lesser maintenance
  * 2.No major installation required
