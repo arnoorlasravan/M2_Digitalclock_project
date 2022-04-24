@@ -1,1 +1,2 @@
-
+# About:
+Door sensor for home used widely because it has simple design and more security for home. Door sensor for home is safer and simple and also easy maintanance. A smart door sensor is a wireless door sensor and is a fully battery-operated device. It is fixed with the door or window for allowing it to operate with the digital door sensor comes with a lot of advantages for your home:Enhances Home Security, No Major Installation Headache, Budget-Friendly Wireless Door Sensor commands. Installing it on your door is relatively easy and quick The general operation of this system and performance is dependent on the opening and closing of the door.
