@@ -1,6 +1,5 @@
 
-#  Table of Test Cases
- 
-* | Test ID | 	                 Description  | Exp i/P   | Exp O/P |PASS/FAIL|
-* | TC_01	  | At the stage of Opening of Door| Open door | High LED|  PASS   |
-* | TC_02   | At the stage of Closing of Door| Close door| Low LED |  PASS   |
+# Test plan:
+
+* When the status of Door is open: The Output of LED is high(pass)
+* When the status of Door is close: The Output of LED is low(pass)
