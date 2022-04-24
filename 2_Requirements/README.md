@@ -3,7 +3,7 @@ Door sensors are an essential component of your home security system: they let y
 
 This Project developed  in embedded c as  Door Sensor for home protection Door sensors for home are an important component of your home protection system In this embeded project you know home protection by using home densors and know the status of Door whether open or close. In this embedded project the components are used LED's and voltimeter,and fixed voltage in this project iam used 10v. If the LED  is glow bright that means the status of the door is open. If the door is close the status of the door is close.
 
-# 4'W 1'H:-
+# 4'W and 1'H:-
 # What :-
    Door sensors are an essential component of your home security system: they let you know about the Door which is open or closed.
 # Why :-
@@ -18,15 +18,11 @@ This Project developed  in embedded c as  Door Sensor for home protection Door s
 
 # Strength:-
  1.Lesser maintenance
- 2.Energy savings
- 3.Assorted costs.
+ 2.No major installation required
+ 3.Safeguards family and kids
 # Weakness:-
- 1.switch may damage
+ 1.circuit may damage exeeding of voltage
  2.Discharge of batteries
 # Opportunities:-
  1.protection
  2.Advancements in Technology
-# Threats:-
- 1.Incomplete home coverage
- 2.Installing incompatible security products
- 3.System Stability
