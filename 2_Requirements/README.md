@@ -40,6 +40,7 @@ The LED glows bright the door status is open and the LED glows close the door st
  
  # High level requirements
 * | ID  |                      	Discription	                      |         status      |
+* |-----|---------------------------------------------------------|---------------------|
 * |ID_01|	    User know  status about door  either open or closed	|        Implemented  |
 * |ID_02|    kow Door Status using LED                            |       	Implemented  |
 
