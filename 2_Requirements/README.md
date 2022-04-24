@@ -19,27 +19,26 @@ The LED glows bright the door status is open and the LED glows close the door st
 
 # 4'W and 1'H:-
 # What :-
-   Door sensors are an essential component of your home security system: they let you know about the Door which is open or closed.
+  * Door sensors are an essential component of your home security system: they let you know about the Door which is open or closed.
 # Why :-
-   In order to get door status that if door is open then we can assume that someone is entering or going out.
+  * In order to get door status that if door is open then we can assume that someone is entering or going out.
 # When :-
-   Anytime we can use this sensors as this are automatic door sensors which are connected to door to get the status of door.
+  * Anytime we can use this sensors as this are automatic door sensors which are connected to door to get the status of door.
 # Who :-
-   All the peoples those who want to keep their Home secure With this Door Sensors which are easy to Install.
+  * All the peoples those who want to keep their Home secure With this Door Sensors which are easy to Install.
 # How :-
-  One piece attaches on the door frame, and the other attaches parallel to the first piece on the door itself.
-  these two parts creats close circuit when door is close and when door is open it will switch circuit.
+  * One piece attaches on the door frame, and the other attaches parallel to the first piece on the door itself.
+   these two parts creats close circuit when door is close and when door is open it will switch circuit.
 
 # Strength:-
- 1.Lesser maintenance
- 2.No major installation required
- 3.Safeguards family and kids
+ * 1.Lesser maintenance
+ * 2.No major installation required
+ * 3.Safeguards family and kids
 # Weakness:-
- 1.circuit may damage exeeding of voltage
- 2.Discharge of batteries
+ * 1.circuit may damage exeeding of voltage
+ * 2.Discharge of batteries
 # Opportunities:-
- 1.protection
- 2.Advancements in Technology
+ * 2.Advancements in Technology
  
  # High level requirements
  ID         	Discription	                                                status
