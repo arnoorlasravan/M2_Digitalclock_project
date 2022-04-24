@@ -1,8 +1,11 @@
 
-# Abstract:
-Door sensor for security purposes are widely used now. An door sensor based on electrical and electronics circuit technology is used to develop the security system as well as automatic light switching system. This security system with door sensor which could benefit every safer environment and single individual. Furthermore, the system is developed with safety environment when switching ON or OFF the light during the room door open or door close.Basically, this system is designed for security purpose to secure the home.
+# Theory:
+Door sensor for home used widely because it has simple design and more security for home. Door sensor for home is safer and simple and also easy maintanance.
+A smart door sensor is a wireless door sensor and is a fully battery-operated device. It is fixed with the door or window for allowing it to operate with the digital
+door sensor comes with a lot of advantages for  your home:Enhances Home Security, No Major Installation Headache, Budget-Friendly Wireless Door Sensor
+commands. Installing it on your door is relatively easy and quick
+The general operation of this system and performance is dependent on the opening and closing of the door.
 
-The system which is the designed Home Security using door sensor is designed considering some factors such as economy, availability of components and efficiency, compatibility, portability and also durability.The general operation of this system and performance is dependent on the opening and closing of the door.
 # What is a Door Sensor:
 The door sensor is an essential component used in-home security system. 
 # Working of a Door Sensor:
