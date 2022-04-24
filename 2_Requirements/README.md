@@ -13,9 +13,9 @@ Home door sensor's play vital role so Homedoor sensor's used widely the circuit 
 The LED glows bright the door status is open and the LED glows close the door status is close.
 
 # Cost and Features:
- complexity
- Defining our system
- system defination
+ * complexity
+ * Defining our system
+ * system defination
 
 # 4'W and 1'H:-
 # What :-
