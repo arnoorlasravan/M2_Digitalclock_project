@@ -41,13 +41,13 @@ The LED glows bright the door status is open and the LED glows close the door st
  * 2.Advancements in Technology
  
  # High level requirements
-| ID  |      	Discription	                                      |         status      |
-|HR_01|	    User know  status about door  either open or closed	|        Implemented  |
-|HR_02|    kow Door Status using LED (glow bright and low)      |       	Implemented  |
+* | ID  |      	Discription	                                      |         status      |
+* |HR_01|	    User know  status about door  either open or closed	|        Implemented  |
+* |HR_02|    kow Door Status using LED (glow bright and low)      |       	Implemented  |
 
 # Low level requirements:-
 
-|ID    |   	Discription	                              |  status     |
-|LR_01	|  Gets Indication of Open Door ( High LED )	  | Implemented |
-|LR_02	| Gets Indication of Closed Door ( Low LED )  	|Implemented  |
+* |ID    |   	Discription	                              |  status     |
+* |LR_01	|  Gets Indication of Open Door ( High LED )	  | Implemented |
+* |LR_02	| Gets Indication of Closed Door ( Low LED )  	|Implemented  |
 
