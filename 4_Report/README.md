@@ -9,5 +9,17 @@ Door sensor for home used widely because it has simple design and more security 
 # Door Sensor Maintenance
 * Based on the security system, we can able to modify the type of alert we get once a door opens. We may select a clear alarm for sound whenever a door opens. Otherwise,   we may choose the alarm to activate mutely while alerting our defense company. No sensor works forever. Because it may get damaged or the switch may wear out. When a     door sensor is not working, immediately call to the home security company to change it instantly.
 
-  Thus, this is all about the door sensor. From the above information finally, we can conclude that the main features of these sensors mainly include remote control,       home security, and wireless installation
+  Thus, this is all about the door sensor. From the above information finally, we can conclude that the main features of these sensors mainly include remote control,       home security, and wireless installation.
+  
+  # Advantages:
+  * keep home secure
+  * less maintanance
+  * energy savings
+  * flexibility
+  * stable
+  * easy installation
+  * safe to the children and family
+  # disadvantages
+  * Battery may discharge
+  * circuit may damage
 
