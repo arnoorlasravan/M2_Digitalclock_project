@@ -1,7 +1,7 @@
-# Description
+# Introduction:
 Door sensors are an essential component of your home security system: they let you know when someone is entering your home. These devices are made up of two parts, which form a circuit when they're kept parallel to each other.
 
-Here is a Project developed as mini project in embedded c as  Door Sensor for home protection Door sensors are an essential component of your home security system In this mini project you can get status of our Home Door which is closed or open If the Led connected to atmega port is high means if Led is Flashing then you can get the idea about status of Door i.e our door is open similarly, If the Led connected to atmega controller port is low means Led is not Flashing then you can get that the Door is Closed this is all because of I have made a system that if Door is closed then there will be no supply to the Led so Led will not glow similarly for open of door there will be supply of 5V that i have made so that Led will glow there so this is how you can get status of your Home Door with this Embedded project
+This Project developed  in embedded c as  Door Sensor for home protection Door sensors for home are an important component of your home protection system In this embeded project you know home protection by using home densors and know the status of Door whether open or close. In this embedded project the components are used LED's and voltimeter,and fixed voltage in this project iam used 10v. If the LED  is glow bright that means the status of the door is open. If the door is close the status of the door is close.
 
 # 4'W 1'H:-
 # What :-
