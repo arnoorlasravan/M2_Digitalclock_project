@@ -12,6 +12,11 @@ The two pieces must sit directly next to each other with only a small amount of 
 Home door sensor's play vital role so Homedoor sensor's used widely the circuit becomes simple and easy maintanance required And also these system is stable and efficient. Used the components are LED's and Atmega328,connecting wires and voltimeter and voltage we are used 10v.
 The LED glows bright the door status is open and the LED glows close the door status is close.
 
+# Cost and Features:
+ complexity
+ Defining our system
+ system defination
+
 # 4'W and 1'H:-
 # What :-
    Door sensors are an essential component of your home security system: they let you know about the Door which is open or closed.
