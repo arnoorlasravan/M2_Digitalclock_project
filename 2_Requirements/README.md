@@ -46,7 +46,8 @@ The LED glows bright the door status is open and the LED glows close the door st
 
 # Low level requirements:-
 
-* |ID    |   	              Discription	   |     result          |  status     |
-* |ID_01	|  Gets Indication of Open Door   |     High LED        | Implemented |
-* |ID_02	|  Gets Indication of Closed Door |     Low LED         |Implemented  |
+ |ID    |   	              Discription	   |     result          |  status     |
+ |------|---------------------------------|---------------------|-------------|
+ |ID_01	|  Gets Indication of Open Door   |     High LED        | Implemented |
+ |ID_02	|  Gets Indication of Closed Door |     Low LED         |Implemented  |
 
